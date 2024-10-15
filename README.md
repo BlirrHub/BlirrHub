@@ -33,11 +33,4 @@ Here are some of my notable projects:
 
 I am currently focusing on studying machine learning to expand my skill set and explore new opportunities in technology.
 
-## Contact
-
-Feel free to reach out to me:
-
-- **Email**: [your-email@example.com](mailto:delacruz.blairecyrel@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/blaire-cyrel-dela-cruz-58a743321)
-
 Thank you for visiting my GitHub profile!
