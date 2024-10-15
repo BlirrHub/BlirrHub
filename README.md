@@ -38,6 +38,6 @@ I am currently focusing on studying machine learning to expand my skill set and 
 Feel free to reach out to me:
 
 - **Email**: [your-email@example.com](mailto:delacruz.blairecyrel@gmail.com)
-<!--- - **LinkedIn**: [Your LinkedIn Profile](link-to-your-profile) --->
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/blaire-cyrel-dela-cruz-58a743321)
 
 Thank you for visiting my GitHub profile!
