@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I am a Computer Science student at Our Lady of Fat
 I am passionate about programming and software development. I enjoy exploring different programming languages and technologies, and I'm always eager to learn more. My interests include:
 
 - Game Development
+- Software Development
 - Web Development
 - Desktop Application Development
 - Machine Learning
