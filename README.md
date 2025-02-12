@@ -33,12 +33,12 @@ I am passionate about programming and software development. I enjoy exploring di
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,azure,unity,blender,postman">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,,git,github,azure,unity,blender,postman">
 </p>
 
 ## Future Goals
