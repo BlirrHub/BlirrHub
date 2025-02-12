@@ -2,8 +2,6 @@
   <img src="./assets/m0q1kaipo4v81.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF">
 </div>
 
-# Blaire Cyrel Dela Cruz
-
 Welcome to my GitHub profile! I am a Computer Science student at Our Lady of Fatima University.
 
 ## About Me
@@ -25,7 +23,7 @@ I am passionate about programming and software development. I enjoy exploring di
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet">
+<img src="https://skillicons.dev/icons?i=dotnet,react">
 </p>
 
 <h3 align="left">A.I Frameworks:</h3>
@@ -40,7 +38,7 @@ I am passionate about programming and software development. I enjoy exploring di
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=unity,blender,vscode,visualstudio,postman">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,azure,unity,blender,postman">
 </p>
 
 ## Future Goals
