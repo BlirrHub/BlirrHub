@@ -20,22 +20,17 @@ I am passionate about programming and software development. I enjoy exploring di
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet">
-</p>
-
-<h3 align="left">Backend Frameworks:</h3>
-<p align="left">
-<img src="https://skillicons.dev/icons?i=express,firebase,supabase" >
+<img src="https://skillicons.dev/icons?i=dotnet">
 </p>
 
 <h3 align="left">A.I Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow">
+<img src="https://skillicons.dev/icons?i=tensorflow">
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite">
 </p>
 
 <h3 align="left">Tools:</h3>
