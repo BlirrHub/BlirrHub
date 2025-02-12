@@ -13,22 +13,36 @@ I am passionate about programming and software development. I enjoy exploring di
 
 ## Languages & Technologies
 
-I primarily work with the following languages:
+<h3 align="left">Languages:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" alt="John Layda">
+</p>
 
-- **C#**
-- **Java**
-- **JavaScript**
-- **Python**
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vue,nuxt,laravel,arduino, dotnet">
+</p>
 
-<!--- ## Projects
+<h3 align="left">Backend Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=express,firebase,supabase" >
+</p>
 
-Here are some of my notable projects:
+<h3 align="left">A.I Frameworks:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow">
+</p>
 
-- **[Project Name 1](link-to-your-project)**: A brief description of what this project does.
-- **[Project Name 2](link-to-your-project)**: A brief description of what this project does.
-- **[Project Name 3](link-to-your-project)**: A brief description of what this project does.
+<h3 align="left">Database:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,redis">
+</p>
 
---->
+<h3 align="left">Tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,nginx,cloudflare,linux,postman,nodejs,npm,pnpm,jquery,bash,vscode,figma,materialui,gcp,idea">
+</p>
+
 ## Future Goals
 
 I am currently focusing on studying machine learning to expand my skill set and explore new opportunities in technology.
