@@ -15,7 +15,7 @@ I am passionate about programming and software development. I enjoy exploring di
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=solidity,c,cpp,html,css,php,java,cs,kotlin,js" alt="John Layda">
+<img src="https://skillicons.dev/icons?i=cs,java,python,c,cpp,js,css,html" alt="John Layda">
 </p>
 
 <h3 align="left">Frameworks:</h3>
