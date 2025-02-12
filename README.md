@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/m0q1kaipo4v81.gif" style="width: 100%; max-width: 600px; height: auto;" alt="Responsive GIF">
+</div>
+
 # Blaire Cyrel Dela Cruz
 
 Welcome to my GitHub profile! I am a Computer Science student at Our Lady of Fatima University.
