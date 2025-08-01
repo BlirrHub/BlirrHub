@@ -38,7 +38,7 @@ I am passionate about programming and software development. I enjoy exploring di
 
 <h3 align="left">Tools:</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,azure,unity,blender,postman">
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,azure,unity,blender,postman,figma">
 </p>
 
 ## Future Goals
